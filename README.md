@@ -26,5 +26,5 @@ Cross-platform applications with Flutter & Firebase
 
 # Featured projects
 * **Garuda**: Seva App for ISKCON Vaikuntha Hill temple
-  * Deployment: https://vkhillgaruda.web.app/
+  * Live app: https://vkhillgaruda.web.app/
   * Source: https://github.com/jayanta-debnath/vkhillgaruda
