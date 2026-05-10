@@ -12,11 +12,6 @@ Cross-platform applications with Flutter & Firebase
 * Firebase
 * React
 
-### Featured projects
-* **Garuda**: Seva App for ISKCON Vaikuntha Hill temple
-  * Deployment: https://vkhillgaruda.web.app/
-  * Source: https://github.com/jayanta-debnath/vkhillgaruda
-
 ## Embedded Software
 
 * C, C++, Embedded Systems
@@ -29,4 +24,7 @@ Cross-platform applications with Flutter & Firebase
 * TLS / Secure Communication
 * OS-Level Security
 
-### Featured projects
+## Featured projects
+* **Garuda**: Seva App for ISKCON Vaikuntha Hill temple
+  * Deployment: https://vkhillgaruda.web.app/
+  * Source: https://github.com/jayanta-debnath/vkhillgaruda
