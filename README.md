@@ -12,7 +12,7 @@ Cross-platform applications with Flutter & Firebase
 
 ## Cross-Platform Application Development
 
-* Dart, Flutter
+* Flutter & Dart
 * Firebase
 * React
 
