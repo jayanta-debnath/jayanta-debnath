@@ -8,9 +8,14 @@ Cross-platform applications with Flutter & Firebase
 
 ## Cross-Platform Application Development
 
-* Flutter, Dart, Firebase
+* Dart, Flutter
+* Firebase
+* React
 
 ### Featured projects
+* **Garuda**: Seva App for ISKCON Vaikuntha Hill temple
+  * Deployment: https://vkhillgaruda.web.app/
+  * Source: https://github.com/jayanta-debnath/vkhillgaruda
 
 ## Embedded Software
 
