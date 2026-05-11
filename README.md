@@ -5,6 +5,10 @@ Currently focused on building modern cross-platform software applications using 
 
 Background includes experience in embedded and automotive software development using C/C++, with work spanning embedded middleware, Linux/QNX environments, cryptographic systems, and security-focused software engineering.
 
+## Previous Engineering Activity
+Prior engineering and open-source activity:
+https://github.com/jayantadn
+
 # Current Focus
 Cross-platform applications with Flutter & Firebase
 
